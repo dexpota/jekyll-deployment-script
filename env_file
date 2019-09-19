@@ -1,0 +1,2 @@
+REMOTE_GIT=https://github.com/dexpota/destro.me.git
+TARGET_DIR=~/public_html
